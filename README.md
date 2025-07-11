@@ -13,4 +13,4 @@ This repository will be a proof that I am learning about Maths behind ML
 ### 9)Anamoly Detection
 ### 10) PCA✅
 ### 11) Neural Network with 1 hidden layer which will be based on sigmoid neuron with binary cross entropy loss✅
-### 12) Softmax Regression
+### 12) Softmax Regression✅
