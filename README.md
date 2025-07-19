@@ -6,7 +6,7 @@ This repository will be a proof that I am learning about Maths behind ML
 ### 2) Logistic Regression✅
 ### 3)Generalized Linear Models(GLMs)✅
 ### 4) Naive Bayes Classifier
-### 5) Perceptron Algorithm
+### 5) Perceptron Algorithm)✅
 ### 6) SVMs
 ### 7) Learning Theory
 ### 8) K-Means Clustering
